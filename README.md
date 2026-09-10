@@ -80,3 +80,7 @@ Canonical status:
 - [Published GitBook](https://carec.gitbook.io/carec-docs) — approved documentation
 
 Contributions are welcome from engineers, researchers, accessibility specialists, clinicians, caregivers, wheelchair users, technical writers, and testers. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Supporters
+
+CAREC's open-source engineering documentation is hosted with the support of **GitBook** through its Community program.
