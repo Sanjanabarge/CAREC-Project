@@ -263,22 +263,9 @@ git checkout <branch-name>
 git merge main                # bring main's changes into your branch
 
 ```
+Git marks conflicting sections in a file with special conflict markers. For example, the opening marker identifies your current version as `HEAD`, the separator divides the two versions, and the closing marker identifies the incoming branch.
 
-Git will mark conflicts in the affected files like this:
-
-```
-
-<<<<<<< HEAD
-
-your version
-
-=======
-
-incoming version from main
-
->>>>>>> main
-
-```
+The section between these markers contains your version and the incoming version. Edit the file to keep the correct final content, and remove all conflict markers before committing.
 
 1\. Open each conflicted file and edit it to the correct final content (remove the `<<<<<<<`, `=======`, `>>>>>>>` markers).
 

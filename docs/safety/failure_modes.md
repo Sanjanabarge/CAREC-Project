@@ -143,4 +143,3 @@ A remote actor may issue an unauthorized command.
 
 
 Mitigations include authentication, consent, local priority, and audit logging.
-

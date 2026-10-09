@@ -1,4 +1,4 @@
-﻿# Research Papers
+# Research Papers
 
 Status: Draft
 Owner: Research Workstream
@@ -7,4 +7,3 @@ Related Issues: CARE-045
 Related ADRs: TBD
 
 Maintain an annotated bibliography by shared control, navigation, perception, human factors, accessibility, safety, and validation. Each entry should include persistent citation, research question, population/platform, method, result, limitations, relevance, and whether findings have been independently replicated. Existing ISICVA material remains under [`README.md`](README.md).
-

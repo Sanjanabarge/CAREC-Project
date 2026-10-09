@@ -1,4 +1,4 @@
-﻿# CAREC Autonomy Workspace
+# CAREC Autonomy Workspace
 
 This directory will contain the ROS 2 simulation-first autonomy stack. It currently records the workspace boundary only; no ROS package is considered implemented yet.
 
@@ -38,4 +38,3 @@ Dependencies must flow through reviewed interfaces. Navigation may propose motio
 ## Hardware requirement
 
 None. A physical wheelchair, embedded board, sensor, game controller, and GPU are not required for normal autonomy contributions.
-
