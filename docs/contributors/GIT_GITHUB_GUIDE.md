@@ -372,4 +372,3 @@ Once your PR is approved, a maintainer will usually \*\*squash and merge\*\* it 
 \- \[x] Explains how to recover from common mistakes without destructive commands
 
 \- \[ ] Tested by one contributor unfamiliar with Git — \*\*hand this to a newcomer and get their feedback\*\*
-
